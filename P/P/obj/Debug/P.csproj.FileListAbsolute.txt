@@ -1,0 +1,24 @@
+C:\Users\edry\Documents\Visual Studio 2015\Projects\P\P\bin\Debug\P.exe.config
+C:\Users\edry\Documents\Visual Studio 2015\Projects\P\P\bin\Debug\P.exe
+C:\Users\edry\Documents\Visual Studio 2015\Projects\P\P\bin\Debug\P.pdb
+C:\Users\edry\Documents\Visual Studio 2015\Projects\P\P\bin\Debug\ClassLibrary1.dll
+C:\Users\edry\Documents\Visual Studio 2015\Projects\P\P\bin\Debug\ClassLibrary1.pdb
+C:\Users\edry\Documents\Visual Studio 2015\Projects\P\P\obj\Debug\P.csprojResolveAssemblyReference.cache
+C:\Users\edry\Documents\Visual Studio 2015\Projects\P\P\obj\Debug\P.exe
+C:\Users\edry\Documents\Visual Studio 2015\Projects\P\P\obj\Debug\P.pdb
+C:\Users\edry\Documents\Visual Studio 2015\Projects\P\P\bin\Debug\MarketClient.dll
+C:\Users\edry\Documents\Visual Studio 2015\Projects\P\P\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edry\Documents\Visual Studio 2015\Projects\P\P\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\edry\Documents\Visual Studio 2015\Projects\P\P\bin\Debug\MarketClient.pdb
+C:\Users\seann\Desktop\git\ISE172_project\P\P\bin\Debug\P.exe.config
+C:\Users\seann\Desktop\git\ISE172_project\P\P\obj\Debug\P.exe
+C:\Users\seann\Desktop\git\ISE172_project\P\P\obj\Debug\P.pdb
+C:\Users\seann\Desktop\git\ISE172_project\P\P\bin\Debug\P.exe
+C:\Users\seann\Desktop\git\ISE172_project\P\P\bin\Debug\P.pdb
+C:\Users\seann\Desktop\git\ISE172_project\P\P\bin\Debug\ClassLibrary1.dll
+C:\Users\seann\Desktop\git\ISE172_project\P\P\bin\Debug\MarketClient.dll
+C:\Users\seann\Desktop\git\ISE172_project\P\P\bin\Debug\Newtonsoft.Json.dll
+C:\Users\seann\Desktop\git\ISE172_project\P\P\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\seann\Desktop\git\ISE172_project\P\P\bin\Debug\ClassLibrary1.pdb
+C:\Users\seann\Desktop\git\ISE172_project\P\P\bin\Debug\MarketClient.pdb
+C:\Users\seann\Desktop\git\ISE172_project\P\P\obj\Debug\P.csprojResolveAssemblyReference.cache

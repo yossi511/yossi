@@ -1,0 +1,21 @@
+C:\Users\seann\Desktop\git\ISE172_project\MarketClient\bin\Debug\MarketClient.dll
+C:\Users\seann\Desktop\git\ISE172_project\MarketClient\bin\Debug\MarketClient.pdb
+C:\Users\seann\Desktop\git\ISE172_project\MarketClient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\seann\Desktop\git\ISE172_project\MarketClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\seann\Desktop\git\ISE172_project\MarketClient\obj\Debug\MarketClient.dll
+C:\Users\seann\Desktop\git\ISE172_project\MarketClient\obj\Debug\MarketClient.pdb
+C:\Users\seann\Desktop\git\ISE172_project\MarketClient\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\MarketClient\bin\Debug\MarketClient.dll
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\MarketClient\bin\Debug\MarketClient.pdb
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\MarketClient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\MarketClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\MarketClient\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\MarketClient\obj\Debug\MarketClient.dll
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\MarketClient\obj\Debug\MarketClient.pdb
+C:\Users\yossi\Desktop\SE Project\ISE172_project\MarketClient\bin\Debug\MarketClient.dll
+C:\Users\yossi\Desktop\SE Project\ISE172_project\MarketClient\bin\Debug\MarketClient.pdb
+C:\Users\yossi\Desktop\SE Project\ISE172_project\MarketClient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\yossi\Desktop\SE Project\ISE172_project\MarketClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yossi\Desktop\SE Project\ISE172_project\MarketClient\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\yossi\Desktop\SE Project\ISE172_project\MarketClient\obj\Debug\MarketClient.dll
+C:\Users\yossi\Desktop\SE Project\ISE172_project\MarketClient\obj\Debug\MarketClient.pdb

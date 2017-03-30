@@ -1,0 +1,14 @@
+C:\Users\edry\Downloads\marketClient-master\marketClient-master\MarketClient\bin\Debug\MarketClient.dll
+C:\Users\edry\Downloads\marketClient-master\marketClient-master\MarketClient\bin\Debug\MarketClient.pdb
+C:\Users\edry\Downloads\marketClient-master\marketClient-master\MarketClient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\edry\Downloads\marketClient-master\marketClient-master\MarketClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edry\Downloads\marketClient-master\marketClient-master\MarketClient\obj\Debug\MarketClient.csprojResolveAssemblyReference.cache
+C:\Users\edry\Downloads\marketClient-master\marketClient-master\MarketClient\obj\Debug\MarketClient.dll
+C:\Users\edry\Downloads\marketClient-master\marketClient-master\MarketClient\obj\Debug\MarketClient.pdb
+C:\Users\seann\Desktop\git\ISE172_project\MarketClient\bin\Debug\MarketClient.dll
+C:\Users\seann\Desktop\git\ISE172_project\MarketClient\bin\Debug\MarketClient.pdb
+C:\Users\seann\Desktop\git\ISE172_project\MarketClient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\seann\Desktop\git\ISE172_project\MarketClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\seann\Desktop\git\ISE172_project\MarketClient\obj\Debug\MarketClient.csprojResolveAssemblyReference.cache
+C:\Users\seann\Desktop\git\ISE172_project\MarketClient\obj\Debug\MarketClient.dll
+C:\Users\seann\Desktop\git\ISE172_project\MarketClient\obj\Debug\MarketClient.pdb

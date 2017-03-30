@@ -1,0 +1,27 @@
+C:\Users\seann\Desktop\git\ISE172_project\P\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\seann\Desktop\git\ISE172_project\P\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\seann\Desktop\git\ISE172_project\P\ClassLibrary1\bin\Debug\MarketClient.dll
+C:\Users\seann\Desktop\git\ISE172_project\P\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\seann\Desktop\git\ISE172_project\P\ClassLibrary1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\seann\Desktop\git\ISE172_project\P\ClassLibrary1\bin\Debug\MarketClient.pdb
+C:\Users\seann\Desktop\git\ISE172_project\P\ClassLibrary1\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\seann\Desktop\git\ISE172_project\P\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\seann\Desktop\git\ISE172_project\P\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\P\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\P\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\P\ClassLibrary1\bin\Debug\MarketClient.dll
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\P\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\P\ClassLibrary1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\P\ClassLibrary1\bin\Debug\MarketClient.pdb
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\P\ClassLibrary1\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\P\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\P\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\ClassLibrary1\bin\Debug\MarketClient.dll
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\ClassLibrary1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\ClassLibrary1\bin\Debug\MarketClient.pdb
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\ClassLibrary1\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\yossi\Desktop\SE Project\Milestone 1\ISE172_project\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
